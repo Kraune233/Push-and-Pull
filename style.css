@@ -24,3 +24,13 @@ main{
   padding-top: 100px;
 } 
 
+.second-line p{
+  font-family:Georgia;
+  position: bottom;
+  width:800px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 5px;
+  transform:rotate(35deg);
+} 
+
