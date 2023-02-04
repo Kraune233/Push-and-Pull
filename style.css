@@ -31,6 +31,12 @@ main{
   margin: 0 auto;
   text-align: center;
   padding-top: 0px;
-  -webkit-transform:rotate(35deg); 
+  transform:rotate(35deg); 
 } 
 
+.fifth-line{
+  font-family:Georgia;
+  width:800px;
+  line-height: 10px;
+  letter-spacing: -5px;
+}
